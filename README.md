@@ -59,5 +59,5 @@ Il sistema raggiunge uno speedup massimo di **~54x**. Mentre la CPU scala linear
 * `results/`: Output automatico delle immagini generate e report `benchmark_report.txt`.
 
 ---
-**Autore:** [Tuo Nome]
+**Autore:** Alessia Donati
 *Progetto per il corso di Parallel Computing.*
